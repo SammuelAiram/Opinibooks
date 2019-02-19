@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">opinibooks</string>
+    <string name="title_activity_livros">Livros</string>
+    <string name="title_activity_wordlist_item">wordlist_item</string>
+</resources>
